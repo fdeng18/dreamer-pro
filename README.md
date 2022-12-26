@@ -88,7 +88,7 @@ Standard DMC
 
 Natural Background DMC
 <p align="center">
-  <img src="./plots/natural_background/curves.png" width="60%">
+  <img src="./plots/natural_background_dmc/curves.png" width="60%">
 </p>
 
 ## Acknowledgments
