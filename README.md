@@ -1,6 +1,6 @@
 # DreamerPro
 
-Official implementation of [DreamerPro: Reconstruction-Free Model-Based Reinforcement Learning with Prototypical Representations](https://arxiv.org/abs/2110.14565) in TensorFlow 2. A re-implementation of [Temporal Predictive Coding for Model-Based Planning in Latent Space](https://github.com/VinAIResearch/TPC-tensorflow) is also included.
+This is the official implementation of [DreamerPro: Reconstruction-Free Model-Based Reinforcement Learning with Prototypical Representations](https://arxiv.org/abs/2110.14565) in TensorFlow 2. A re-implementation of [Temporal Predictive Coding for Model-Based Planning in Latent Space](https://github.com/VinAIResearch/TPC-tensorflow) is also included.
 
 DreamerPro makes large performance gains on the [DeepMind Control suite](https://github.com/deepmind/dm_control) both in the standard setting and when there are complex background distractions. This is achieved by combining [Dreamer](https://github.com/danijar/dreamerv2) with [prototypical representations](https://github.com/facebookresearch/swav) that free the world model from reconstructing visual details.
 
