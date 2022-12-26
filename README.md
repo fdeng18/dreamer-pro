@@ -79,6 +79,18 @@ We find it necessary to use `--precision 32` in the natural background setting f
 
 The training process can be monitored via TensorBoard. We have also included performance curves in `plots`. Note that these curves may appear different from what is shown in TensorBoard. This is because the evaluation return in the performance curves is averaged over 10 episodes, while TensorBoard only shows the evaluation return of the last episode.
 
+## Results
+
+Standard DMC
+<p align="center">
+  <img src="./plots/standard_dmc/curves.png" width="60%">
+</p>
+
+Natural Background DMC
+<p align="center">
+  <img src="./plots/natural_background/curves.png" width="60%">
+</p>
+
 ## Acknowledgments
 
 This repository is largely based on the TensorFlow 2 implementation of [Dreamer](https://github.com/danijar/dreamerv2). We would like to thank [Danijar Hafner](https://danijar.com/) for releasing and updating his clean implementation. In addition, we also greatly appreciate the help from [Tung Nguyen](https://tung-nd.github.io/) in implementing TPC.
