@@ -94,3 +94,15 @@ Natural Background DMC
 ## Acknowledgments
 
 This repository is largely based on the TensorFlow 2 implementation of [Dreamer](https://github.com/danijar/dreamerv2). We would like to thank [Danijar Hafner](https://danijar.com/) for releasing and updating his clean implementation. In addition, we also greatly appreciate the help from [Tung Nguyen](https://tung-nd.github.io/) in implementing TPC.
+
+## Citation
+```
+@inproceedings{deng2022dreamerpro,
+  title={Dreamerpro: Reconstruction-free model-based reinforcement learning with prototypical representations},
+  author={Deng, Fei and Jang, Ingook and Ahn, Sungjin},
+  booktitle={International Conference on Machine Learning},
+  pages={4956--4975},
+  year={2022},
+  organization={PMLR}
+}
+```
